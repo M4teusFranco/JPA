@@ -29,14 +29,15 @@ Atualização de Tênis
 ![image](https://github.com/user-attachments/assets/b1477686-538d-45bf-9d80-c9e240bbae79)
 
 
+Leitura de registros de Tênis
+
+![image](https://github.com/user-attachments/assets/3dcad4a8-46bc-4964-be23-a6e13a6ae629)
+
+
 Remoção de Tênis
 
 ![image](https://github.com/user-attachments/assets/479be6dc-4442-4702-9ce4-ed72b49f3667)
 ![image](https://github.com/user-attachments/assets/54005917-da5d-4444-8ef7-2792fd17d132)
-
-Leitura de registros de Tênis
-
-![image](https://github.com/user-attachments/assets/3dcad4a8-46bc-4964-be23-a6e13a6ae629)
 
 
 Sair Tênis
