@@ -1,5 +1,7 @@
 # Sistema de Manipulação de Dados com JPA em Java
 
+### 📋 Descrição do Projeto
+
 O projeto é uma Ferramenta de Gerenciamento de Tênis conectada a um Bando de Dados MySQL via JPA que realiza operações por linha de comando em Java
 
 - persistense.xml: Estabelece a conexão com o banco de dados 
