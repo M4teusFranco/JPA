@@ -37,7 +37,7 @@ git clone https://github.com/seu-usuario/JPA
 <property name="javax.persistence.jdbc.user" value="root"/>
 ```
 
-5. Execute a classe Main.java e siga as instruções no terminal.
+4. Execute a classe Main.java e siga as instruções no terminal.
 
 ### 🛠️ Funcionalidades Implementadas
 
